@@ -1,9 +1,7 @@
 public class Product {
-    private int id = 0;
+    public static int id = 1;
     private String name;
     private double price;
-
-    public static int count = 0;
 
     public Product() {
     }
