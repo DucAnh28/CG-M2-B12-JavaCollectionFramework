@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH1-SdungMap/TH1-SdungMap.iml" filepath="$PROJECT_DIR$/TH1-SdungMap/TH1-SdungMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH2-DifferentHashMapandHashSet/TH2-DifferentHashMapandHashSet.iml" filepath="$PROJECT_DIR$/TH2-DifferentHashMapandHashSet/TH2-DifferentHashMapandHashSet.iml" />
     </modules>
   </component>
 </project>
