@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/TH1-SdungMap/TH1-SdungMap.iml" filepath="$PROJECT_DIR$/TH1-SdungMap/TH1-SdungMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH2-DifferentHashMapandHashSet/TH2-DifferentHashMapandHashSet.iml" filepath="$PROJECT_DIR$/TH2-DifferentHashMapandHashSet/TH2-DifferentHashMapandHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH3-Comparable_Comparator/TH3-Comparable_Comparator.iml" filepath="$PROJECT_DIR$/TH3-Comparable_Comparator/TH3-Comparable_Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH4-InstallingBinarySearch/TH4-InstallingBinarySearch.iml" filepath="$PROJECT_DIR$/TH4-InstallingBinarySearch/TH4-InstallingBinarySearch.iml" />
     </modules>
   </component>
 </project>
